@@ -1,0 +1,11 @@
+COSTO COMPONENTI
+- Arduino Uno --> da 7.99€,
+                (https://www.amazon.it/AZDelivery-UNO-R3-ATmega328-compatibile/dp/B01MDJA464/ref=sr_1_5?ie=UTF8&qid=1523215854&sr=8-5&keywords=arduino+uno);
+- Bottoni --> da 9.99€,
+             (https://www.amazon.it/XCSOURCE-pulsanti-pacchetti-6-colori-AC803/dp/B071WP4ZW4/ref=sr_1_20?ie=UTF8&qid=1523216031&sr=8-20&keywords=pulsanti+arcade);
+- Led --> Se comprati singoli da 0.10€ a pezzo,
+          Link di riferimento:(https://www.amazon.it/Cylewet-luminescente-highlight-Arduino-confezione/dp/B06XSCCSDX/ref=sr_1_20?s=electronics&ie=UTF8&qid=1523216302&sr=1-20&keywords=led+arduino);
+- Restistenze --> Se comprate singolarmente da 0.10€ a pezzo,
+                  Link di riferimento:(https://www.amazon.it/Set-resistenze-assortite-pezzi-valori/dp/B01LYGIOW4/ref=sr_1_1_sspa?s=electronics&ie=UTF8&qid=1523216529&sr=1-1-spons&keywords=resistenze+assortite&psc=1);
+- Buzzer --> da 4.00€,
+             (https://www.amazon.it/Segnalatore-Acustico-Buzzer-Arduino-A125/dp/B00R3DGCZE/ref=sr_1_10?s=electronics&ie=UTF8&qid=1523216637&sr=1-10&keywords=buzzer);

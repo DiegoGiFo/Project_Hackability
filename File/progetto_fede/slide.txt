@@ -1,0 +1,18 @@
+Elettronica:
+- componenti usati:
+    -> arduino nano,;
+    -> tasti 12mm, sono stati collegati in pullup(spiegazione di cosa significa);
+    -> schermo lcd 20x4, cioè 20 colonne e 4 righe, ogni cella dello schermo è composta da una matrice
+       8 per 5 di led che possono essere programmati per far comparire il simbolo che si vuole (ex. cuore);
+    -> Bluetooth;
+    -> buzzer, emette suoni impostando la frequenza e la durata dell'impulso.
+- non saprei cosa altro dire.
+
+Software:
+- spiegazione generale del funzionamento del prototipo (ex: il tasto tot fa questo ecc);
+- dettagli su come fa a capire la parola inserita; stringa di lunghezza max = 5 contenente DOT,LINE o CLEAR;
+- (se si vuole dire) metodo per fare il doppio o triplo click;
+- funzionamento della modalità di gioco (appare la lettera da indovinare, si hanno 3 vite,
+  musichetta diversa se si vince o si perde);
+- Funzionamento futuro del modulo Bluetooth;
+- miglioramenti futuri: implementare il gioco con parole e non solo lettere,suggerimento automatico delle lettere e parole.
